@@ -26,6 +26,7 @@ provider:
 
 plugins: 
   - serverless-offline
+  - serverless-plugin-include-dependencies
 
 # you can overwrite defaults here
 #  stage: dev
